@@ -12,16 +12,15 @@ View order history
 
 Aklny Structure:
 aklny/
-│
-├── config.php           # Database connection & session start
-├── index.php            # Login page
-├── register.php         # User registration
-├── restaurants.php      # Restaurant and menu display
-├── review_order.php     # Review & confirm order
-├── orders.php           # User’s order history
-├── logout.php           # Logout 
-├── style.css            # Website styling
-└── aklny.sql            # Database file
+config.php           # Database connection & session start
+index.php            # Login page
+register.php         # User registration
+restaurants.php      # Restaurant and menu display
+review_order.php     # Review & confirm order
+orders.php           # User’s order history
+logout.php           # Logout 
+style.css            # Website styling
+aklny.sql            # Database file
 
 Setup Instructions in Linux:
 1- Clone this repository
